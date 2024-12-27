@@ -69,7 +69,7 @@ sphinxopts = [
 
 [languages.pl]
 name = "Polish"
-in_prod = false
+in_prod = true
 
 [languages.pt_BR]
 name = "Brazilian Portuguese"
